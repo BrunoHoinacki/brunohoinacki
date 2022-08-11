@@ -3,6 +3,7 @@
 - 🌱 Concluindo faculdade de analise e desenvolvimento de sistemas
 - 📫 Contate-me no email: brunohoinackib@gmail.com
 - 😄 Pronouns: Ele/Dele
+- 🤖 CEO da página @guridatipoa (instagram, tiktok, youtube)
 
 ##
 
