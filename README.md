@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Bruno Hoinacki 
-- 🔭 Trabalhando como vendedor interno(Buscando vaga na área de TI)
+- 🔭 Autonomo
 - 🌱 Concluindo faculdade de analise e desenvolvimento de sistemas
 - 📫 Contate-me no email: brunohoinackib@gmail.com
 - 😄 Pronouns: Ele/Dele
