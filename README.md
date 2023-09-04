@@ -21,7 +21,7 @@
 
 ***
 
-### 🎯 a FullStack Developer
+### 🎯 About me
 
 Hey there 👋
 
