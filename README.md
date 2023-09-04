@@ -25,7 +25,7 @@
 
 Hey there 👋
 
-I’m Bruno, a full-stack engineer, creative coder and 🎓cursing analysis and development systems. I made it my mission my passion for tecnology, my study is focus in java and angular.
+I’m Bruno, a full-stack developer and designer graphic, 🎓cursing analysis and development systems. I made it my mission my passion for tecnology, my study is focus in java and angular.
 I want live abroud with my family and i go!
 
 Want to know more about me? [Check out my link's.](https://linktr.ee/guridatipoa)
@@ -42,6 +42,7 @@ Want to know more about me? [Check out my link's.](https://linktr.ee/guridatipoa
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 🎨 &nbsp;Front-end
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
