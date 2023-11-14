@@ -59,6 +59,11 @@ Want to know more about me? [Check out my link's.](https://linktr.ee/guridatipoa
 
 <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
 
+### 🚀 &nbsp;Versioning Technologies
+
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+
 # 📊 &nbsp;Stats
 
 <h3 align="left">GitHub Stats</h3>
