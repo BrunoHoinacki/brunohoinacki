@@ -28,7 +28,7 @@ Hey there 👋
 I’m Bruno, a full-stack developer and designer graphic, 🎓cursing analysis and development systems. I made it my mission my passion for tecnology, my study is focus in PHP with Laravel.
 I want live abroud with my family and i go!
 
-Want to know more about me? [Check out my link's.](https://linktr.ee/guridatipoa)
+Want to know more about me? [Check out my website.](https://bhb-dev.com.br)
 
 ***
 ## 🛠 &nbsp;Tech Stack
