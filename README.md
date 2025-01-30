@@ -23,6 +23,9 @@
 
 ### 🎯 About me
 
+![Profile Views](https://komarev.com/ghpvc/?username=BrunoHoinacki&color=blue&style=flat-square)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg?style=flat-square)](https://stand-with-ukraine.pp.ua)
+
 Hey there 👋
 
 I’m Bruno, a full-stack developer and designer graphic, 🎓cursing analysis and development systems. I made it my mission my passion for tecnology, my study is focus in PHP with Laravel.
