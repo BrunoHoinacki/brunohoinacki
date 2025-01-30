@@ -1,6 +1,7 @@
 <h1 align="center">
   Hi i'm Bruno Hoinacki 👋
 </h1>
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg?style=flat-square)](https://stand-with-ukraine.pp.ua)
 
 <div align="center">
    <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
