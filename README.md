@@ -78,7 +78,7 @@ Want to know more about me? [Check out my website.](https://forcoder.com.br)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-### 💸 &nbsp;Gateways de Pagamento
+### 💸 &nbsp;Payment Gateways
 ![Asaas](https://img.shields.io/badge/Asaas-%23F37A2D.svg?style=for-the-badge&logo=asaas&logoColor=white)
 ![Mercado Pago](https://img.shields.io/badge/Mercado%20Pago-%2300A859.svg?style=for-the-badge&logo=mercadopago&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-%23003A70.svg?style=for-the-badge&logo=stripe&logoColor=white)
