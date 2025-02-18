@@ -78,6 +78,12 @@ Want to know more about me? [Check out my website.](https://forcoder.com.br)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
+### 💸 &nbsp;Gateways de Pagamento
+![Asaas](https://img.shields.io/badge/Asaas-%23F37A2D.svg?style=for-the-badge&logo=asaas&logoColor=white)
+![Mercado Pago](https://img.shields.io/badge/Mercado%20Pago-%2300A859.svg?style=for-the-badge&logo=mercadopago&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-%23003A70.svg?style=for-the-badge&logo=stripe&logoColor=white)
+
+
 ### ⚡ &nbsp;Database 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -133,7 +139,6 @@ Want to know more about me? [Check out my website.](https://forcoder.com.br)
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
-![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
 
 ### 🎛️ &nbsp;Operating System
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
