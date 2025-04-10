@@ -30,9 +30,9 @@ Hey there 👋
 
 Nice to meet you! I'm Bruno Hoinacki, a Full Stack Developer with a great passion for technology and innovation. My career in IT began with a curiosity about how things work, which quickly turned into a professional journey full of learning. Over the years, I have specialized in solutions for e-commerce, blogs, websites, and systems, always focusing on quality and efficiency.  
 
-My background includes experience in network administration, computer maintenance, and design, which prepared me for Web Development, where I found my true calling. Today, I am proficient in a wide range of technologies such as Python, Django, PHP, Laravel, HTML, HTMX, Angular, Nuxt.js, and Vue.js, which I use to create diverse, scalable, and innovative solutions. I believe that software development involves both people and code, so I value collaboration and knowledge sharing to overcome challenges.  
+My background includes experience in network administration, computer maintenance, and design, which prepared me for Web Development, where I found my true calling. Today, I am proficient in a wide range of technologies such as Python, Django, PHP, Laravel, Nuxt.js, Vue.js and others, which I use to create diverse, scalable, and innovative solutions. I believe that software development involves both people and code, so I value collaboration and knowledge sharing to overcome challenges.  
 
-My experience as an administrative manager has enhanced my leadership skills, allowing me to effectively guide teams and ensure project quality. Personally, I am driven by the desire to provide an international experience for my family, which motivates me to continuously seek career growth and expand my horizons.  
+My experience as an administrative manager has enhanced my leadership skills, allowing me to effectively guide teams and ensure project quality. Personally.
 
 I am always looking for new connections and opportunities to collaborate with other professionals who are passionate about technology. Let's explore the vast world of IT together and create innovations that truly make a difference.
 
