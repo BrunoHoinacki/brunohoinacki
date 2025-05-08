@@ -1,3 +1,4 @@
+ ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 <h1 align="center">
   Hi i'm Bruno Hoinacki 👋
 </h1>
