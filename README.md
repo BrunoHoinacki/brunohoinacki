@@ -1,4 +1,6 @@
- ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+ <div align="center">
+    <img src="./header.svg" alt="Bruno Hoinacki">
+</div>
 
 <div align="center">
    <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
@@ -181,3 +183,5 @@ Want to know more about me? [Check out my website.](https://forcoder.com.br)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunohoinacki&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunohoinacki&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ***
+
+ ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
