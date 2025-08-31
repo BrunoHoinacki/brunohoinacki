@@ -26,10 +26,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=BrunoHoinacki&color=blue&style=flat-square)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg?style=flat-square)](https://stand-with-ukraine.pp.ua)
 
-<a href="https://tryhackme.com/p/brunohoinacki">
-<img src="https://tryhackme-badges.s3.amazonaws.com/brunohoinacki.png" alt="Your Image Badge" />
-</a>
-
 Hey there 👋
 
 Nice to meet you! I'm Bruno Hoinacki, a Full Stack Developer with a great passion for technology and innovation. My career in IT began with a curiosity about how things work, which quickly turned into a professional journey full of learning. Over the years, I have specialized in solutions for e-commerce, blogs, websites, and systems, always focusing on quality and efficiency.  
