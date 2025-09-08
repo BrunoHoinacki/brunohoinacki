@@ -118,6 +118,11 @@ Create **software and infrastructure** that make a difference, supporting people
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Laravel Socialite](https://img.shields.io/badge/Laravel_Socialite-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Google API](https://img.shields.io/badge/Google_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Facebook API](https://img.shields.io/badge/Facebook_API-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![SMTP](https://img.shields.io/badge/SMTP-D44638?style=for-the-badge&logo=gmail&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-326CE5?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ### ⚙️ **Additional Tools**
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
