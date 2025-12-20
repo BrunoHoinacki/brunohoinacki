@@ -185,17 +185,6 @@ Create **software and infrastructure** that make a difference, supporting people
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunohoinacki&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunohoinacki&theme=tokyonight" alt="brunohoinacki" />
-</div>
-
----
-
-## 🏆 **GitHub Trophies**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brunohoinacki&theme=tokyonight&row=1&column=6" alt="brunohoinacki" />
-</div>
-
 ---
 
 ## 🚀 **Current Focus**
