@@ -669,36 +669,6 @@ Open source DevOps environment.
 
 ---
 
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/BrunoHoinacki/BrunoHoinacki/output/github-contribution-grid-snake-dark.svg">
-
-</div>
-
----
-
-# Wakatime
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=BrunoHoinacki&theme=tokyonight">
-
-</div>
-
----
-
-# Spotify
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem">
-
-</div>
-
----
-
 # Certifications
 
 - Python for Cloud & Big Data
