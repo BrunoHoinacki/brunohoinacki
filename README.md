@@ -259,8 +259,8 @@ Open source deployment environment.
 
 Property matching platform.
 
-* Laravel 12
-* PHP 8.4
+* Laravel
+* PHP
 * Docker
 * Redis
 * Traefik
@@ -643,9 +643,7 @@ Open source DevOps environment.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoHoinacki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoHoinacki&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoHoinacki&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -656,16 +654,6 @@ Open source DevOps environment.
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoHoinacki&theme=tokyonight">
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BrunoHoinacki&theme=tokyonight&row=2&column=4">
 
 </div>
 
